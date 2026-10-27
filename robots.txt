@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/kiev-home-renovations-surrey/sitemap.xml
+Sitemap: https://local-business-guides.github.io/kiev-home-renovations-surrey/news-sitemap.xml
