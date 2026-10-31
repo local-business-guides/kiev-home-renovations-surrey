@@ -15,9 +15,9 @@
 - Remodeler
 
 ## Guides
-- [Bathroom renovations in surrey: a homeowner’s checklist](https://local-business-guides.github.io/kiev-home-renovations-surrey/bathroom-renovations-in-surrey/): Bathroom renovations in surrey with clear planning for a more practical home in Surrey, BC.
-- [Bathroom renovations Surrey homeowners can plan with care](https://local-business-guides.github.io/kiev-home-renovations-surrey/bathroom-renovations-surrey/): Bathroom renovations Surrey homeowners can plan with clear scope and practical guidance in Surrey, BC.
 - [Choosing the best bathroom renovations Surrey](https://local-business-guides.github.io/kiev-home-renovations-surrey/best-bathroom-renovations-surrey/): Explore the best bathroom renovations Surrey homeowners can plan for a more useful bathroom in Surrey, BC.
+- [Bathroom renovations Surrey homeowners can plan with care](https://local-business-guides.github.io/kiev-home-renovations-surrey/bathroom-renovations-surrey/): Bathroom renovations Surrey homeowners can plan with clear scope and practical guidance in Surrey, BC.
+- [Bathroom renovations in surrey: a homeowner’s checklist](https://local-business-guides.github.io/kiev-home-renovations-surrey/bathroom-renovations-in-surrey/): Bathroom renovations in surrey with clear planning for a more practical home in Surrey, BC.
 - [Planning the best bathroom renovations in surrey](https://local-business-guides.github.io/kiev-home-renovations-surrey/best-bathroom-renovations-in-surrey/): Plan the best bathroom renovations in surrey for a more comfortable home in Surrey, BC.
 - [Bathroom renovations near me in Surrey](https://local-business-guides.github.io/kiev-home-renovations-surrey/bathroom-renovations-near-me/): Bathroom renovations near me for thoughtful planning and a better-fit space in Surrey, BC.
 - [Plan local bathroom renovations Surrey homeowners need](https://local-business-guides.github.io/kiev-home-renovations-surrey/local-bathroom-renovations-surrey/): Local bathroom renovations Surrey homeowners can plan with clear project guidance and a more useful bathroom.
@@ -27,6 +27,7 @@
 - [Find a bathroom remodeler near me in Surrey](https://local-business-guides.github.io/kiev-home-renovations-surrey/bathroom-remodeler-near-me/): Find a bathroom remodeler near me in Surrey for clear project planning and a bathroom suited to your home.
 
 ## Newsroom
+- [Kiev Home Renovations Shares Surrey Bathroom Renovation Guide](https://local-business-guides.github.io/kiev-home-renovations-surrey/news/2026-10-31-kiev-home-renovations-shares-surrey-bathroom/): Kiev Home Renovations published a guide to bathroom renovations in Surrey, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-10-31)
 - [Kiev Home Renovations Shares Surrey Bathroom Renovation Resources](https://local-business-guides.github.io/kiev-home-renovations-surrey/news/2026-10-27-kiev-home-renovations-shares-surrey-bathroom-renov/): Kiev Home Renovations has released a guide, YouTube video and podcast episode about bathroom renovations in Surrey. (2026-10-27)
 
 ## Pages
@@ -37,4 +38,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/kiev-home-renovations-surrey/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/kiev-home-renovations-surrey/news/rss.xml)
-- [Main resource site](https://kiev-home-renovations-surrey.localwebsites.chatgpt.site)
+- [Main resource site](https://atlas-pages.localwebsites.chatgpt.site/m/kiev-home-renovations-bathroom-renovations-surrey-service-areas-965b3e/embed)
